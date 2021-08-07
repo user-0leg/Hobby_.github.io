@@ -1,0 +1,34 @@
+body {
+	
+	background-color: 	#A4957D;
+	
+}
+h1{
+	text-align: center;
+	color: 	#B89C50;
+	font: bold 3em Arial, sans-serif;
+color: #FFAB00;
+text-shadow: #fff -1px -1px 0,
+			#333 1px 1px 0;
+}
+h2 {
+	color: green;
+	
+}
+b {
+color: #6D3F5B;
+}
+li {
+	color: 		#3B83BD;
+}
+	a {
+		color: 	#1E2460;
+	}
+	img{
+		height:300px;
+	}
+	img {
+
+		width: auto;
+		
+	}
